@@ -9,14 +9,14 @@ let  Dummyexpensearr = [
         id:"1",
         title:"Car Insurance",
         amount:200,
-        expdate: new Date(2022,3,5)
+        date: new Date(2022,2,12)
     },
 
     {
         id:"2",
         title:"New Home",
         amount:400,
-        expdate: new Date(2022,2,2)
+        date: new Date(2022,2,2)
 
     },
 
@@ -24,7 +24,7 @@ let  Dummyexpensearr = [
         id:"3",
         title:"New Refrigerator",
         amount:100,
-        expdate: new Date(2022,1,2)
+        date: new Date(2022,1,2)
 
     },
 
@@ -33,7 +33,7 @@ let  Dummyexpensearr = [
         id:"4",
         title:"New Tv",
         amount:500,
-        expdate: new Date(2022,1,8)
+        date: new Date(2022,1,8)
     },
 
 
