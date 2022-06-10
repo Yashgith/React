@@ -8,7 +8,7 @@ export default function ExpenseItem(props) {
         props.item.map(
           expenses=>(
             <Expense
-         expdate={expenses.expdate}  
+         date={expenses.date}  
          title={expenses.title} 
          amount={expenses.amount}
           />
